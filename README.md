@@ -5,7 +5,8 @@ Pacman in WebAR to test out tech for VandyHacks VII
 ## How to
 
 ```
-npm install
+npm i
+
 npm run dev
 ```
 
